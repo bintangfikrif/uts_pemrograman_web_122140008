@@ -1,43 +1,49 @@
 # E-Commerce Web Application
 
-## Deskripsi
-Ini adalah proyek web e-commerce berbasis ReactJS yang memungkinkan pengguna untuk menambahkan item ke dalam cart dan melakukan checkout. Data produk diperoleh dari Fake Store API.
+## Description
 
-## Teknologi yang Digunakan
+This is a ReactJS-based e-commerce web project that allows users to add items to the cart and proceed to checkout. Product data is retrieved from the Fake Store API.
+
+## Technologies Used
+
 - **ReactJS** (Create React App)
-- **Context API dengan useReducer** (untuk state management global)
-- **Fake Store API** (untuk data produk)
-- **Vercel** (untuk deployment)
+- **Context API with useReducer** (for global state management)
+- **Fake Store API** (for product data)
+- **Vercel** (for deployment)
 
-## Fitur Utama
-- Menampilkan daftar produk dari Fake Store API
-- Menambahkan produk ke dalam cart
-- Melihat daftar item di cart
-- Menghapus item dari cart
-- Checkout produk
+## Key Features
 
-## Instalasi dan Menjalankan Proyek
-1. Clone repository ini:
+- Display a list of products from the Fake Store API
+- Add products to the cart
+- View items in the cart
+- Remove items from the cart
+- Checkout products
+
+## Installation and Running the Project
+
+1. Clone this repository:
    ```sh
    git clone <repository-url>
-   cd <nama-folder>
+   cd <folder-name>
    ```
 2. Install dependencies:
    ```sh
    npm install
    ```
-3. Jalankan aplikasi:
+3. Run the application:
    ```sh
    npm start
    ```
 
 ## Deployment
-Aplikasi ini telah dideploy di Vercel dan dapat diakses melalui link berikut:
+
+The application has been deployed on Vercel and can be accessed at the following link:
 [Live Demo](https://uts-pemrograman-web-122140008.vercel.app/)
 
-## Struktur Proyek
+## Project Structure
+
 ```sh
-// File struktur aplikasi:
+// Project file structure:
 src/
   ├── components/
   │   ├── Header.jsx
@@ -59,17 +65,15 @@ src/
   └── styles.css
 ```
 
-## API yang Digunakan
-Menggunakan Fake Store API untuk mendapatkan daftar produk:
+## API Used
+
+Using Fake Store API to retrieve the product list:
+
 ```sh
 https://fakestoreapi.com/products
 ```
 
-## Kontributor
-- Nama: [Bintang]
-- Email: [bntngfkr@gmail.com]
-- Github: [bintangfikrif]
+## License
 
-## Lisensi
-Proyek ini bersifat open-source dan dapat digunakan sesuai kebutuhan.
+This project is open-source and can be used as needed.
 
