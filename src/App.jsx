@@ -25,7 +25,7 @@ function App() {
               </Routes>
             </main>
             <footer className="footer">
-              <p>&copy; 2025 React Store. All rights reserved.</p>
+              <p>&copy; 2025 Star Store. All rights reserved.</p>
             </footer>
           </div>
         </ErrorBoundary>
