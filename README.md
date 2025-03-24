@@ -14,7 +14,7 @@ Ini adalah proyek web e-commerce berbasis ReactJS yang memungkinkan pengguna unt
 - Menambahkan produk ke dalam cart
 - Melihat daftar item di cart
 - Menghapus item dari cart
-- Checkout tanpa perlu login
+- Checkout produk
 
 ## Instalasi dan Menjalankan Proyek
 1. Clone repository ini:
